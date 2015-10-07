@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bitter-Regular'), url(http://themes.googleusercontent.com/static/fonts/bitter/v5/SHIcXhdd5RknatSgOzyEkA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Bitter-Bold'), url(http://themes.googleusercontent.com/static/fonts/bitter/v5/evC1haE-MsorTl_A7_uSGT8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}

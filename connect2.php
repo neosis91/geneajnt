@@ -1,0 +1,1 @@
+<?php $link = mysqli_connect("mysql2.000webhost.com", "a2396534_jnt1", "neosis1", "a2396534_genea1"); ?>
